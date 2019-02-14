@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bced2"],{"2a8e":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n晒单\n")])},u=[],l={},o=l,i=t("2877"),s=Object(i["a"])(o,c,u,!1,null,null,null);s.options.__file="dc-content-type2.vue";e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0bced2.453675cf.js.map
